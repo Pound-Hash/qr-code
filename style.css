@@ -34,24 +34,24 @@ main {
 }
 
 img {
-  border-radius: 4.5vmax;
+  border-radius: 4vmax;
   padding: 5% 5% 5% 5%;
 }
 
 h1 {
   color: hsl(218, 44%, 22%);
   font: bold calc(1.15rem + 2vw) Outfit;
-  margin: 2% 0 6%;
+  margin: 1% 0 6%;
 }
 
 main p {
   color: hsl(220, 15%, 55%);
   font: normal calc(.54rem + 2vw) Outfit;
-  margin-bottom: 12%;
+  margin-bottom: 13%;
 }
 
 h1, main p {
-  padding: 0 10%;
+  padding: 0 8%;
   text-align: center;
 }
 
@@ -77,19 +77,19 @@ h1, main p {
   }
 
   h1 {
-    font-size: calc(.8rem + 1vw);
+    font-size: calc(.9rem + 1vw);
   }
 
   main p {
-    font-size: calc(.45rem + 1vw);
+    font-size: calc(.4rem + 1vw);
   }
 
   .attribution {
-    font-size: calc(.25rem + 1vw);
+    font-size: calc(.1rem + 1vw);
   }
 
   img {
-    border-radius: 4.5vmin;
+    border-radius: 4vmin;
   }
 
   main {
