@@ -9,11 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Pound-Hash/qr-code.git)
+- Live Site URL: [Vercel](https://qr-code-beta-wheat.vercel.app)
 
 ## My process
 
@@ -35,19 +32,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-
-
-
-### Continued development
-
-
 ### Useful resources
 
+- [W3Schools](https://www.w3schools.com) - HTML & CSS reference documentation
+- [CSS-Tricks](https://css-tricks.com) - CSS guides and reference documentation
+- [Stack Overflow](https://stackoverflow.com) - Q&A platform
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Pound-Hash](https://www.frontendmentor.io/profile/Pound-Hash)
 
