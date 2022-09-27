@@ -40,14 +40,14 @@ img {
 
 h1 {
   color: hsl(218, 44%, 22%);
-  font: bold 1.4rem Outfit;
+  font: bold calc(1.15rem + 2vw) Outfit;
   margin: 2% 0 6%;
 }
 
 main p {
   color: hsl(220, 15%, 55%);
-  font: normal .94rem Outfit;
-  margin-bottom: 16%;
+  font: normal calc(.54rem + 2vw) Outfit;
+  margin-bottom: 12%;
 }
 
 h1, main p {
@@ -57,33 +57,15 @@ h1, main p {
 
 .attribution {
   color: hsl(220, 15%, 55%);
-  font: normal .69rem/1.6 Outfit;
-  font-size: .84rem;
+  font: normal calc(.39rem + 2vw)/1.6 Outfit;
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 5%;
   color: #21857B;
 }
 
 .attribution a {
   color: #334B48;
   text-decoration: none;
-}
-
-
-
-@media screen and (min-width: 509px) {
-
-  h1 {
-    font-size: 1.6rem;
-  }
-
-  main p {
-    font-size: 1.14rem;
-  }
-
-  .attribution {
-    font-size: 1.04rem;
-  }
 }
 
 
@@ -95,11 +77,15 @@ h1, main p {
   }
 
   h1 {
-    font-size: 1.4rem;
+    font-size: calc(.8rem + 1vw);
   }
 
   main p {
-    font-size: .94rem;
+    font-size: calc(.45rem + 1vw);
+  }
+
+  .attribution {
+    font-size: calc(.25rem + 1vw);
   }
 
   img {
@@ -110,8 +96,5 @@ h1, main p {
     border-radius: 3vmin;
   }
 
-  .attribution {
-    font-size: .74rem;
-  }
 }
 
